@@ -83,4 +83,3 @@ Anyone who embraces it becomes a “security researcher.”
 
 ---
 
-*This explanation is enough for the first 5 minutes of a video series. If you wish, we can now dive into **1.2 (The Relationship Between Bugs and Vulnerabilities)** and **1.3 (The Differences)** with the same depth and style.*
